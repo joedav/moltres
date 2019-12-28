@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password: 123
+    username: root
+    url: jdbc:mysql://localhost:3306/moltres
+    driver-class-name: com.mysql.cj.jdbc.Driver
